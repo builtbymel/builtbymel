@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Computer Science student at the University of North Carolina at Charlotte, concentrating in Cybersecurity and part of the Computing Honors Program.
+My name is Melaniya Batsuk. I'm a Computer Science student at the University of North Carolina at Charlotte, concentrating in Cybersecurity and part of the Computing Honors Program.
 
 I'm passionate about learning how technology works, understanding security vulnerabilities, and exploring ways to protect systems and data.
 
