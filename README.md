@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**builtbymel/builtbymel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of North Carolina at Charlotte, concentrating in Cybersecurity and part of the Computing Honors Program.
 
-Here are some ideas to get you started:
+I'm passionate about learning how technology works, understanding security vulnerabilities, and exploring ways to protect systems and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Cybersecurity Interests
+- Penetration Testing & Ethical Hacking
+- Digital Forensics
+- Cloud Security
+- AI in Cybersecurity
+
+### 🌱 Currently Learning
+- Python, C, SQL
+- Linux & Computer Systems
+- Networking & Security Fundamentals
+- Cybersecurity Tools & Techniques
+
+### 💻 Projects
+I'm currently building my skills through coursework, hands-on labs, and cybersecurity challenges. More projects coming soon!
+
+### 📫 Let's Connect
+- LinkedIn: www.linkedin.com/in/melaniya-batsuk
